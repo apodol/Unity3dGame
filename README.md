@@ -2,12 +2,12 @@
 
 An android free runner game developed in unity. C#
 
-The user is presented with obstacles in the shape of doors.
-The user has to touch and drag upwards if the present door is of type "PULL"
-The user has to touch and drag downwards if the present door is of type "PULL reverse"
-The user has to touch and drag upwards if the present door is of type "PUSH"
-The user has to touch and drag downwards if the present door is of type "PUSH reverse"
-The user is assigned a tittle, based on their highscore.
+The user is presented with obstacles in the shape of doors. <br />
+The user has to touch and drag upwards if the present door is of type "PULL" <br />
+The user has to touch and drag downwards if the present door is of type "PULL reverse" <br />
+The user has to touch and drag upwards if the present door is of type "PUSH" <br />
+The user has to touch and drag downwards if the present door is of type "PUSH reverse" <br />
+The user is assigned a tittle, based on their highscore. <br />
 
 ---
 Gameplay video.
