@@ -2,6 +2,7 @@
 
 An android free runner game developed in unity. C#
 
+At first start, the user is presented with "how to play instuctions". <br />
 The user is presented with obstacles in the shape of doors. <br />
 The user has to touch and drag upwards if the present door is of type "PULL" <br />
 The user has to touch and drag downwards if the present door is of type "PULL reverse" <br />
