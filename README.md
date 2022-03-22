@@ -11,5 +11,6 @@ The user has to touch and drag downwards if the present door is of type "PUSH re
 The user is assigned a tittle, based on their highscore. 
 ---
 Gameplay video. (low quality due to github 10mb file restriction)
+
 https://user-images.githubusercontent.com/51244823/159494875-fb486ddc-3345-4677-9a2f-584b00531e88.mp4
 
